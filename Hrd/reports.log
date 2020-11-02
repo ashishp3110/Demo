@@ -1,0 +1,24 @@
+
+Starting report PayStmt [Sun Aug 10 12:54:55 2003] ...
+REP-0099: Report is aborted upon user request.
+REP-0098: Report not run - user cancelled in the parameter form.
+End report PayStmt [Sun Aug 10 12:55:10 2003].
+
+Starting report pbsheet [Tue Sep 09 12:11:35 2003] ...
+End report pbsheet [Tue Sep 09 12:11:44 2003].
+
+Starting report pbsheet [Tue Sep 09 12:11:50 2003] ...
+End report pbsheet [Tue Sep 09 12:11:54 2003].
+
+Starting report PayStmt [Tue Sep 09 12:12:26 2003] ...
+End report PayStmt [Tue Sep 09 12:16:20 2003].
+
+Starting report PayStmt [Tue Sep 09 12:16:29 2003] ...
+End report PayStmt [Tue Sep 09 13:11:52 2003].
+
+Starting report PayStmt [Tue Sep 09 13:46:11 2003] ...
+End report PayStmt [Tue Sep 09 14:04:59 2003].
+
+Starting report PayStmt [Tue Sep 09 14:16:41 2003] ...
+REP-0509: Invalid number.
+End report PayStmt [Tue Sep 09 14:30:30 2003].

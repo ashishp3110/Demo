@@ -1,0 +1,2 @@
+alter table salary add salovr number(12,2);
+ALTER TABLE SALARY ADD (TDUC NUMBER(14,2), GPAYABLE NUMBER(14,2), NPAY NUMBER(14,2),GPAY NUMBER(12,2));
